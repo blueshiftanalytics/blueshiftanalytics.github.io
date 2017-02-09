@@ -4,6 +4,7 @@ layout: default
 
 ## Programming Languages
 * * *
+
 #### C++
 ```c++
 if (developingLiveTradingAlgorithms == true or connectingToDataFarms == true){
