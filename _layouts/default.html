@@ -13,17 +13,17 @@
   </head>
   <body>
     <div class="wrapper">
+      <nav class="main-nav">
+        <ul>
+          <li><a href="{{ site.baseurl }}{% link index.md %}"><strong>Home</strong></a></li>
+          <li><a href="{{ site.baseurl }}{% link about.md %}"><strong>About</strong></a></li>
+          <li><a href="{{ site.baseurl }}{% link blog.md %}"><strong>Blog</strong></a></li>
+        </ul>
+      </nav>
+      
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.repository_name }}</p>
-        
-        <nav class="main-nav">
-          <ul>
-            <li><a href="{{ site.baseurl }}{% link index.md %}"><strong>Home</strong></a></li>
-            <li><a href="{{ site.baseurl }}{% link about.md %}"><strong>About</strong></a></li>
-            <li><a href="{{ site.baseurl }}{% link blog.md %}"><strong>Blog</strong></a></li>
-          </ul>
-        </nav>
         
         <figure>
           <img
