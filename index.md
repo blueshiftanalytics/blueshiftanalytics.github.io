@@ -2,8 +2,8 @@
 layout: default
 ---
 
-| [Home](index)| [About](about)|
-|:-------------|:--------------|
+## [Home](index) | [About](about)
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
