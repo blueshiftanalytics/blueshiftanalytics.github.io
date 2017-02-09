@@ -1,4 +1,5 @@
 ---
+name: about
 layout: default
 ---
 
