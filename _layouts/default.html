@@ -14,7 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <!--><h1>{{ site.title | default: site.github.repository_name }}</h1><!-->
+        <h1>Justin Clark's Website</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -28,7 +29,8 @@
         <nav class="main-nav">
           <ul>
             <li><a href="/"><strong>Home</strong></a></li>
-            <li><a href="{{ about }}"><strong>About</strong></a></li>
+            <li><a href="{{ about.md }}"><strong>About</strong></a></li>
+            <li><a href="{{ another-page.md }}"><strong>Another Page</strong></a></li>
           </ul>
         </nav>
     
