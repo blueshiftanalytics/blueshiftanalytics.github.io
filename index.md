@@ -19,7 +19,7 @@ if (workingWithMachineLearning == True):
 
 #### Matlab
 ```matlab
-if needFastPrototyping == true
+if needFastPrototyping == true || backtestingTradingStrategies == true
     disp('My language of choice is Matlab');
 end
 ```
