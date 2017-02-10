@@ -37,15 +37,14 @@
       </header>
       <section>
       
-      {% capture content %}
         <ul>
         {% for post in site.posts %}
-          <h2>{{ post.tile }}</h2>
-          {{ post.exerpt }}
-        {% endfor %}
-        </ul>
-      {% endcapture %}
-      {{ content }}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post.excerpt }}
+          </li>
+       {% endfor %}
+      </ul>
 
       </section>
       <footer>
