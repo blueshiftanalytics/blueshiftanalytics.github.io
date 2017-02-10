@@ -2,7 +2,7 @@
 layout: default
 ---
 
-https://img.shields.io/badge/<Version>-<0.3>-<orange>.svg
+![Version](https://img.shields.io/badge/Version-0.3-orange.svg)
 
 ## Welcome to My Website
 
