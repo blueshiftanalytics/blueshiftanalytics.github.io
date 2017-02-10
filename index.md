@@ -2,6 +2,8 @@
 layout: default
 ---
 
+https://img.shields.io/badge/<Version>-<0.3>-<orange>.svg
+
 ## Welcome to My Website
 
 My name is Justin Clark and I enjoy playing around with neural networks and other A.I. frameworks. In 2016, I cofounded a quantitative hedge fund and work on developing automated trading algorithms in C++. I'm also in charge of training neural networks with [Tensorflow](https://tensorflow.org/) for prediction and modelling.
