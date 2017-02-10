@@ -14,14 +14,16 @@ This site is the central location I'd like to keep my thoughts, ideas, favorite 
 
 ### Programming Languages
 
-![Version](https://img.shields.io/badge/C++-11-blue.svg)![Version](https://img.shields.io/badge/IB API-9.72-red.svg)
+![Version](https://img.shields.io/badge/C++-11-blue.svg) ![Version](https://img.shields.io/badge/IB API-9.72-red.svg)
+
 ```c++
 if (developingLiveTradingAlgorithms == true or connectingToDataFarms == true){
     printf("C++ is my go to language\n");
 }
 ```
 
-![Version](https://img.shields.io/badge/Python-2.7-green.svg)![Version](https://img.shields.io/badge/Tensorflow-0.12-yellow.svg)
+![Version](https://img.shields.io/badge/Python-2.7-green.svg) ![Version](https://img.shields.io/badge/Tensorflow-0.12-yellow.svg)
+
 ```python
 if (workingWithMachineLearning == True):
     print("I will use Python (most commonly neural networks with Tensorflow)") 
