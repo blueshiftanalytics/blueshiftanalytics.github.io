@@ -4,20 +4,18 @@ layout: default
 
 ![Version](https://img.shields.io/badge/Website Version-0.3-orange.svg)
 
-## Welcome to My Website
+## Welcome to Blueshift Analytics
 
-My name is Justin Clark and I enjoy playing around with neural networks and other A.I. frameworks. In 2016, I cofounded a quantitative hedge fund and work on developing automated trading algorithms in C++. I'm also in charge of training neural networks with [Tensorflow](https://tensorflow.org/) for prediction and modelling.
-
-This site is the central location I'd like to keep my thoughts, ideas, favorite projects, etc.
+We are a consultancy dedicated to bringing the best data solutions to organizations. 
 
 * * *
 
-### Programming Languages and APIs
+### Tools and Skills
 
-![Version](https://img.shields.io/badge/C++-11-blue.svg) ![Version](https://img.shields.io/badge/IB API-9.72-red.svg)
+![Version](https://img.shields.io/badge/C++-11-blue.svg)
 
 ```c++
-if (developingLiveTradingAlgorithms == true or connectingToDataFarms == true){
+if (developingLiveTradingAlgorithms == true or connectingToDataFeeds == true){
     printf("C++ is my go to language\n");
 }
 ```
