@@ -15,7 +15,7 @@ We are a consultancy dedicated to bringing the best data solutions to organizati
 ![Version](https://img.shields.io/badge/C++-11-blue.svg)
 
 ```c++
-if (developingLiveTradingAlgorithms == true or connectingToDataFeeds == true){
+if (runtimeIsCrucial == true){
     printf("C++ is my go to language\n");
 }
 ```
