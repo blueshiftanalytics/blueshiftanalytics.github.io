@@ -6,9 +6,6 @@ layout: default
 
 ## Welcome to Blueshift Analytics
 
-We use our expertise as Data Scientists to help drive growth in your organization.
-
-* * *
 
 **Strategy:** Do you know how to integrate valuable data insights to your organizational strategy?
 
