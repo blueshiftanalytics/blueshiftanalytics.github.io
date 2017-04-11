@@ -6,7 +6,13 @@ layout: default
 
 ## Welcome to Blueshift Analytics
 
-We are a consultancy dedicated to bringing the best data solutions to organizations. 
+We use our expertise as Data Scientists to help drive growth in your organization.
+
+* * *
+
+**Strategy:** Do you know how to integrate valuable data insights to your organizational strategy?
+**Consulting:** Does your organization have Data Science expertise for an upcoming (or current) project?
+**Education:** Can we help your organization develop fluency in the realm of Data Science?
 
 * * *
 
