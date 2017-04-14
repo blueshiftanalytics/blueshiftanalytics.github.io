@@ -34,4 +34,8 @@ if (prototypingModels == True):
 
 
 * * *
-
+<html><head><title>Test</title></head>
+<body>
+    <!--#include file="hex.shtml" -->
+</body>
+</html>
