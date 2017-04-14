@@ -35,7 +35,6 @@ if (prototypingModels == True):
 
 Works before the line
 
-* * *
 
 <style>
 
