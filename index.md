@@ -4,7 +4,6 @@ layout: default
 
 ![Version](https://img.shields.io/badge/Website Version-0.3-orange.svg)
 
-## Test line
 ## Welcome to Blueshift Analytics
 
 
@@ -33,8 +32,8 @@ if (prototypingModels == True):
     print("Python is hard to beat when it comes to quick prototyping") 
 ```
 
-Works before the line
 
+* * *
 
 <style>
 
