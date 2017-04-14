@@ -44,7 +44,7 @@ Works before the line
 }
 
 </style>
-<svg width="960" height="500"></svg>
+<svg width="480" height="250"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
 <script>
@@ -63,7 +63,7 @@ var color = d3.scaleSequential(d3.interpolateLab("white", "steelblue"))
     .domain([0, 20]);
 
 var hexbin = d3.hexbin()
-    .radius(20)
+    .radius(10)
     .extent([[0, 0], [width, height]]);
 
 var x = d3.scaleLinear()
