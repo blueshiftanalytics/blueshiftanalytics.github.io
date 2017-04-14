@@ -31,6 +31,9 @@ if (runtimeIsCrucial == true){
 if (prototypingModels == True):
     print("Python is hard to beat when it comes to quick prototyping") 
 ```
+
+Works before the line
+
 * * *
 
 <style>
